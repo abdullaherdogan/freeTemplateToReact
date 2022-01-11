@@ -1,0 +1,38 @@
+import img1 from "./images/1.jpg";
+import img2 from "./images/2.jpg";
+import img3 from "./images/3.jpg";
+import img4 from "./images/4.jpg";
+import img5 from "./images/5.jpg";
+import img6 from "./images/6.jpg";
+import img7 from "./images/7.jpg";
+import img8 from "./images/8.jpg";
+import img9 from "./images/9.jpg";
+import img10 from "./images/10.jpg";
+import img11 from "./images/11.jpg";
+import img12 from "./images/12.jpg";
+import img13 from "./images/13.jpg";
+import img14 from "./images/14.jpg";
+import slide1 from "./images/slide1.jpg";
+import slide2 from "./images/slide2.jpg";
+import slide3 from "./images/slide3.jpg";
+import avatar from "./images/avatar.jpg";
+export {
+    img1,
+    img2,
+    img3,
+    img4,
+    img5,
+    img6,
+    img7,
+    img8,
+    img9,
+    img10,
+    img11,
+    img12,
+    img13,
+    img14,
+    slide1,
+    slide2,
+    slide3,
+    avatar,
+};
